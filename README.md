@@ -1,6 +1,6 @@
 ## Hello Everyone!
 
-### 💻 I'm Leandro Dias, I'm 20 years old Software Developer from Brazil.
+### 💻 I'm Leandro Dias, I'm 21 years old Software Developer from Brazil.
 
 ## &#x1f4c8; GitHub Stats
 
